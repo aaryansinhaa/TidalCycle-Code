@@ -1,0 +1,5 @@
+#+TITLE: The Sample code snippets for TechFest
+#+AUTHOR: Aaryan Kumar Sinha
+
+* For code snippets with .js extensions are for Strudel REPL.
+* For code snippets with .txt extensions are for Sonic Pi.
